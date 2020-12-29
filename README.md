@@ -7,6 +7,7 @@ The 3D box estimation comes from the limits of the keypoints already estimated i
 
 ## Results wearing a dressing gown
 ![](ezgif.com-video-to-gif.gif)
+
 Not sure how is gonna behave wearing any other clothes. I haven't tried it yet.
 
 
